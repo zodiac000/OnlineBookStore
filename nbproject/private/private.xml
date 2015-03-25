@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/Bin/Documents/Uottawa/Semester3/SEG3102/Lab4_ex/OnlineStore2/src/java/dbaccess/servlets/ViewList.java</file>
+            <file>file:/Users/Bin/Documents/Uottawa/Semester3/SEG3102/Lab4_ex/OnlineStore2/web/index.jsp</file>
+            <file>file:/Users/Bin/Documents/Uottawa/Semester3/SEG3102/Lab4_ex/OnlineStore2/src/java/dbaccess/beans/ItemOrder.java</file>
+            <file>file:/Users/Bin/Documents/Uottawa/Semester3/SEG3102/Lab4_ex/OnlineStore2/src/java/dbaccess/persistence/Book.java</file>
+            <file>file:/Users/Bin/Documents/Uottawa/Semester3/SEG3102/Lab4_ex/OnlineStore2/web/add.jsp</file>
+            <file>file:/Users/Bin/Documents/Uottawa/Semester3/SEG3102/Lab4_ex/OnlineStore2/src/java/dbaccess/servlets/mainServlet.java</file>
+            <file>file:/Users/Bin/Documents/Uottawa/Semester3/SEG3102/Lab4_ex/OnlineStore2/src/java/dbaccess/persistence/DBHelper.java</file>
+            <file>file:/Users/Bin/Documents/Uottawa/Semester3/SEG3102/Lab4_ex/OnlineStore2/web/failedAdd.jsp</file>
+            <file>file:/Users/Bin/Documents/Uottawa/Semester3/SEG3102/Lab4_ex/OnlineStore2/src/java/dbaccess/servlets/LookupServlet.java</file>
+            <file>file:/Users/Bin/Documents/Uottawa/Semester3/SEG3102/Lab4_ex/OnlineStore2/web/checkout.jsp</file>
+            <file>file:/Users/Bin/Documents/Uottawa/Semester3/SEG3102/Lab4_ex/OnlineStore2/src/java/dbaccess/servlets/addServlet.java</file>
+            <file>file:/Users/Bin/Documents/Uottawa/Semester3/SEG3102/Lab4_ex/OnlineStore2/src/conf/persistence.xml</file>
+            <file>file:/Users/Bin/Documents/Uottawa/Semester3/SEG3102/Lab4_ex/OnlineStore2/web/bookQuerry.jsp</file>
+            <file>file:/Users/Bin/Documents/Uottawa/Semester3/SEG3102/Lab4_ex/OnlineStore2/src/java/dbaccess/beans/CatalogItem.java</file>
+            <file>file:/Users/Bin/Documents/Uottawa/Semester3/SEG3102/Lab4_ex/OnlineStore2/web/emptyPage.jsp</file>
+        </group>
+    </open-files>
+</project-private>
